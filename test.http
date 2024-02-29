@@ -1,0 +1,6 @@
+GET http://localhost:5000/count
+###
+GET http://localhost:5000/count
+
+###
+POST http://localhost:5000/reset
